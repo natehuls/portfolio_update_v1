@@ -1,0 +1,14 @@
+header {
+	margin-top: 200px;
+	font-size: 1.75em;
+	text-align: center;
+	}
+
+ul {
+	list-style: none;
+	font-size: 1.25em;
+}
+
+.unorderedlist {
+	text-align: center;
+}
